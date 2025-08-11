@@ -8,7 +8,7 @@
 // @description          原作者(https://greasyfork.org/zh-CN/scripts/404391-zhihu-com-dark-mode)
 // @author               老蛤，boyliuxiaopeng
 // @match                *://*.zhihu.com/*
-// @license              GEN
+// @license              MIT
 // @grant                none
 // ==/UserScript==
 
